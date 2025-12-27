@@ -1,6 +1,6 @@
 {
     "name": "koba9813/irodori-translate-engine",
-    "description": "A simple PHP wrapper to use the AI APIs from Sakura Internet's \\"Sakura AI Engine\\" for translation. It's the core translation logic extracted and packaged as a library from the actual \\"Irodori Translation\\".",
+    "description": "A simple PHP wrapper for the Sakura AI translation API (from Sakura Internet's Sakura AI Engine), used in the Irodori translation tool.",
     "type": "library",
     "license": "MIT",
     "authors": [
